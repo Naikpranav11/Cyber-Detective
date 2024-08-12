@@ -3,11 +3,11 @@
 The Twitter Cyberbullying Detection App is a machine learning application that analyzes tweets to determine whether they contain instances of cyberbullying. If cyberbullying is detected, the app further classifies it into one of five categories: race, gender, age, religion, or ethnicity. The app features user-friendly options for dataset selection and offers exploratory data analysis (EDA) capabilities to help understand the data better.
 
 ## Features
-*Tweet Classification:* Analyze tweets to determine if they contain cyberbullying content.
-*Cyberbullying Categories:* Classify cyberbullying into five categories: race, gender, age, religion, and ethnicity.
-*Dataset Selection:* Choose different datasets for training and testing the model.
-*Exploratory Data Analysis (EDA):* Perform EDA on the chosen dataset to gain insights and visualize data patterns.
-*User-Friendly Interface:* Intuitive interface for seamless interaction and analysis.
+- *Tweet Classification:* Analyze tweets to determine if they contain cyberbullying content.
+- *Cyberbullying Categories:* Classify cyberbullying into five categories: race, gender, age, religion, and ethnicity.
+- *Dataset Selection:* Choose different datasets for training and testing the model.
+- *Exploratory Data Analysis (EDA):* Perform EDA on the chosen dataset to gain insights and visualize data patterns.
+- *User-Friendly Interface:* Intuitive interface for seamless interaction and analysis.
 
 ## Technology Stack
 Python: Core programming language for building the app.
